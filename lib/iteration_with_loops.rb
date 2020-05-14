@@ -20,7 +20,7 @@ def find_min_in_nested_arrays(src)
 #  min
 ##  min << value
 #end
-##am getting the last number of each array w/ src[count][inner_count - 1] how do I get the previous element? (instead of last)
+#am getting the last number of each array w/ src[count][inner_count - 1] how do I get the previous element? (instead of last)
 #also don't like that I had to hard code this by setting value to 10000
 
       if src[count][inner_count] < value
